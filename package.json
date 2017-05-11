@@ -1,5 +1,5 @@
 {
-  "name": "mm-signal",
+  "name": "@merci-michel/mm-signal",
   "version": "1.0.0",
   "description": "Merci-Michel Signal package",
   "main": "lib/index.js",
